@@ -3,16 +3,16 @@
 Me chamo Priscila,sou uma desenvolvedora FrontEnd atualmente estou estudando as tecnologias html, css, javascript e desenvolvendo alguns projetos em desafios do curso para colocar em prática o aprendizado adquirido. O curso me capacitará nas metodologias de HTML, CSS,JavaScript, React, Node.
 <br>
 <br>
-°Tecnologias em andamento:
+<b>Tecnologias em andamento:</b>
 <br>
 <br>
--<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <br>
 <br>
--<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <br>
 <br>
--<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 <br>
 <br>
 
