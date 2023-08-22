@@ -1,6 +1,6 @@
 ### Olá Rede :blush: :computer:
 
-Me chamo Priscila, atualmente estou estudando as tecnologias html, css, javascript e desenvolvendo alguns projetos em desafios do curso para colocar em prática o aprendizado adquirido.
+Me chamo Priscila,sou uma desenvolvedora FrontEnd atualmente estou estudando as tecnologias html, css, javascript e desenvolvendo alguns projetos em desafios do curso para colocar em prática o aprendizado adquirido. O curso me capacitará nas metodologias de HTML, CSS,JavaScript, React, Node.
 <br>
 <br>
 °Tecnologias em andamento:
